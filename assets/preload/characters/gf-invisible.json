@@ -185,21 +185,10 @@
 			"anim": "scared",
 			"indices": [],
 			"name": "GF FEAR"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				-5
-			],
-			"fps": 24,
-			"anim": "kill",
-			"indices": [],
-			"name": "GF Kill"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_invisible_assets",
 	"position": [
 		0,
 		0
