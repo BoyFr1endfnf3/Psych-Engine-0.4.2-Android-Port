@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smiler Mouse.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smiler mouse down0000" x="5" y="5" width="574" height="683" frameX="-3" frameY="-34" frameWidth="611" frameHeight="723"/>
+	<SubTexture name="smiler mouse idle0000" x="5" y="1665" width="605" height="653" frameX="-37" frameY="-20" frameWidth="687" frameHeight="666"/>
+	<SubTexture name="smiler mouse left0000" x="1174" y="792" width="619" height="863" frameX="-12" frameY="-3" frameWidth="733" frameHeight="896"/>
+	<SubTexture name="smiler mouse rigth0000" x="1174" y="5" width="774" height="777" frameX="-3" frameY="-31" frameWidth="837" frameHeight="821"/>
+	<SubTexture name="smiler mouse up0000" x="589" y="5" width="575" height="869" frameX="0" frameY="-2" frameWidth="628" frameHeight="902"/>
+</TextureAtlas>

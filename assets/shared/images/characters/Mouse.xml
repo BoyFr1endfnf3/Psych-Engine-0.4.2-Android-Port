@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mouse.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mouse Down0000" x="5" y="5" width="300" height="301" frameX="0" frameY="-28" frameWidth="679" frameHeight="626"/>
+	<SubTexture name="Mouse Left0000" x="1021" y="5" width="294" height="390" frameX="-4" frameY="0" frameWidth="615" frameHeight="753"/>
+	<SubTexture name="Mouse Rigth0000" x="631" y="5" width="300" height="390" frameX="0" frameY="-5" frameWidth="655" frameHeight="782"/>
+	<SubTexture name="Mouse Up0000" x="315" y="5" width="306" height="398" frameX="0" frameY="-36" frameWidth="696" frameHeight="822"/>
+	<SubTexture name="Mouse idle0000" x="1365" y="5" width="291" height="373" frameX="-2" frameY="-52" frameWidth="592" frameHeight="781"/>
+	<SubTexture name="sad0000" x="1666" y="5" width="258" height="402" frameX="-96" frameY="-93" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0001" x="1666" y="5" width="258" height="402" frameX="-96" frameY="-93" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0002" x="1666" y="5" width="258" height="402" frameX="-96" frameY="-93" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0003" x="1666" y="5" width="258" height="402" frameX="-96" frameY="-93" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0004" x="5" y="417" width="307" height="409" frameX="-82" frameY="-75" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0005" x="5" y="417" width="307" height="409" frameX="-82" frameY="-75" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0006" x="322" y="417" width="333" height="360" frameX="-81" frameY="-26" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0007" x="322" y="417" width="333" height="360" frameX="-81" frameY="-26" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0008" x="665" y="417" width="333" height="357" frameX="-86" frameY="-18" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0009" x="665" y="417" width="333" height="357" frameX="-86" frameY="-18" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0010" x="1008" y="417" width="331" height="355" frameX="-72" frameY="0" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0011" x="1008" y="417" width="331" height="355" frameX="-41" frameY="-102" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0012" x="1008" y="417" width="331" height="355" frameX="-41" frameY="-102" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0013" x="1349" y="417" width="333" height="350" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0014" x="1692" y="417" width="329" height="355" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0015" x="1008" y="782" width="332" height="358" frameX="-33" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0016" x="1350" y="782" width="332" height="357" frameX="-27" frameY="-112" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0017" x="1692" y="782" width="331" height="349" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0018" x="5" y="1141" width="331" height="354" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0019" x="346" y="1141" width="330" height="359" frameX="-33" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0020" x="1692" y="1141" width="344" height="370" frameX="-27" frameY="-112" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0021" x="5" y="1521" width="346" height="365" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0022" x="361" y="1521" width="331" height="354" frameX="-32" frameY="-91" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0023" x="702" y="1521" width="332" height="357" frameX="-32" frameY="-91" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0024" x="1044" y="1521" width="329" height="354" frameX="-27" frameY="-112" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0025" x="1383" y="1521" width="332" height="350" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0026" x="1725" y="1521" width="350" height="368" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0027" x="1934" y="5" width="373" height="368" frameX="-33" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0028" x="2031" y="383" width="330" height="355" frameX="-27" frameY="-91" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0029" x="2033" y="748" width="332" height="350" frameX="0" frameY="-91" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0030" x="2046" y="1108" width="330" height="356" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0031" x="2085" y="1839" width="330" height="351" frameX="-33" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0032" x="2317" y="5" width="332" height="354" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0033" x="2371" y="369" width="330" height="355" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0034" x="2375" y="734" width="330" height="357" frameX="-32" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0035" x="2386" y="1101" width="331" height="349" frameX="-27" frameY="-113" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0036" x="2427" y="1460" width="332" height="354" frameX="-48" frameY="-107" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0037" x="2427" y="1460" width="332" height="714" frameX="-39" frameY="-108" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0038" x="2427" y="1460" width="332" height="702" frameX="-32" frameY="-120" frameWidth="760" frameHeight="842"/>
+	<SubTexture name="sad0039" x="2427" y="1460" width="332" height="709" frameX="-27" frameY="-113" frameWidth="760" frameHeight="842"/>
+</TextureAtlas>

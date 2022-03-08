@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qt_annoyed.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Final_Down0000" x="5" y="5" width="466" height="440" frameX="-2" frameY="-35" frameWidth="577" frameHeight="589"/>
+	<SubTexture name="Final_Idle0000" x="1227" y="5" width="404" height="451" frameX="-37" frameY="-21" frameWidth="430" frameHeight="467"/>
+	<SubTexture name="Final_Left0000" x="481" y="5" width="266" height="477" frameX="0" frameY="0" frameWidth="291" frameHeight="482"/>
+	<SubTexture name="Final_Right0000" x="757" y="5" width="401" height="442" frameX="-2" frameY="-3" frameWidth="612" frameHeight="519"/>
+	<SubTexture name="Final_Up0000" x="5" y="457" width="431" height="469"/>
+	<SubTexture name="glitch_down0000" x="757" y="457" width="460" height="460" frameX="-2" frameY="-35" frameWidth="577" frameHeight="589"/>
+	<SubTexture name="glitch_left0000" x="1227" y="466" width="282" height="478" frameX="-53" frameY="-2" frameWidth="360" frameHeight="494"/>
+	<SubTexture name="glitch_right0000" x="5" y="954" width="434" height="502" frameX="-2" frameY="-3" frameWidth="612" frameHeight="519"/>
+	<SubTexture name="glitch_up0000" x="449" y="954" width="398" height="502"/>
+</TextureAtlas>

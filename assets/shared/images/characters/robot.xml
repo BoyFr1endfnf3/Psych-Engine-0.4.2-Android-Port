@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="robot.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KB_DanceLeft0000" x="755" y="5" width="842" height="658" frameX="-58" frameY="-32" frameWidth="877" frameHeight="685"/>
+	<SubTexture name="KB_DanceRight0000" x="755" y="5" width="842" height="658" frameX="-58" frameY="-32" frameWidth="877" frameHeight="685"/>
+	<SubTexture name="KB_Down0000" x="5" y="5" width="740" height="614" frameX="-62" frameY="0" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB_Left0000" x="5" y="673" width="779" height="786" frameX="-36" frameY="-35" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB_Right0000" x="794" y="673" width="625" height="626" frameX="-8" frameY="0" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB_Up0000" x="1607" y="5" width="844" height="810" frameX="-1" frameY="-5" frameWidth="904" frameHeight="830"/>
+</TextureAtlas>

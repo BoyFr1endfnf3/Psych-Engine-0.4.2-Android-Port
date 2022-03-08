@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Suicide.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hit Mouse0000" x="5" y="795" width="573" height="793" frameX="-32" frameY="-61" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0001" x="5" y="795" width="573" height="793" frameX="-32" frameY="-61" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0002" x="1462" y="795" width="541" height="795" frameX="-69" frameY="-10" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0003" x="2013" y="795" width="561" height="811" frameX="-69" frameY="-10" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0004" x="2013" y="795" width="561" height="811" frameX="-69" frameY="-10" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0005" x="5" y="1616" width="545" height="804" frameX="-69" frameY="-8" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0006" x="5" y="1616" width="545" height="804" frameX="-69" frameY="-8" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0007" x="560" y="1600" width="970" height="726" frameX="-69" frameY="0" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0008" x="2399" y="5" width="1289" height="717" frameX="-20" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0009" x="2584" y="732" width="692" height="729" frameX="-20" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0010" x="3286" y="732" width="681" height="730" frameX="0" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0011" x="3286" y="732" width="681" height="730" frameX="0" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0012" x="3286" y="732" width="681" height="737" frameX="-18" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0013" x="3286" y="732" width="681" height="737" frameX="-18" frameY="-82" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0014" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0015" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0016" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0017" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0018" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0019" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Hit Mouse0020" x="2584" y="1472" width="684" height="725" frameX="-9" frameY="-81" frameWidth="1313" frameHeight="819"/>
+	<SubTexture name="Suicide Down0000" x="5" y="5" width="674" height="679" frameX="-65" frameY="-9" frameWidth="789" frameHeight="686"/>
+	<SubTexture name="Suicide Idle0000" x="1540" y="2281" width="668" height="754" frameX="-8" frameY="-13" frameWidth="703" frameHeight="837"/>
+	<SubTexture name="Suicide Left0000" x="3278" y="1472" width="671" height="799" frameX="-25" frameY="-60" frameWidth="713" frameHeight="892"/>
+	<SubTexture name="Suicide Rigth0000" x="1462" y="5" width="847" height="780" frameX="0" frameY="-64" frameWidth="860" frameHeight="859"/>
+	<SubTexture name="Suicide Up0000" x="689" y="5" width="763" height="815" frameX="-2" frameY="-102" frameWidth="786" frameHeight="963"/>
+</TextureAtlas>

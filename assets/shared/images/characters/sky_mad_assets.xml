@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky_mad_assetsFreddyKawaii.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky mad down0000" x="0" y="1201" width="448" height="587"/>
+	<SubTexture name="sky mad idle0000" x="0" y="0" width="448" height="587"/>
+	<SubTexture name="sky mad left0000" x="0" y="608" width="448" height="587"/>
+	<SubTexture name="sky mad right0000" x="436" y="596" width="448" height="587"/>
+	<SubTexture name="sky mad up0000" x="438" y="2" width="448" height="587"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qt.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Final_Down0000" x="5" y="5" width="466" height="440" frameX="-2" frameY="-35" frameWidth="577" frameHeight="589"/>
+	<SubTexture name="Final_Idle0000" x="481" y="5" width="393" height="456" frameX="-37" frameY="-15" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Left0000" x="5" y="471" width="266" height="477" frameX="0" frameY="0" frameWidth="291" frameHeight="482"/>
+	<SubTexture name="Final_Right0000" x="281" y="471" width="401" height="442" frameX="-3" frameY="-3" frameWidth="612" frameHeight="519"/>
+	<SubTexture name="Final_Up0000" x="884" y="5" width="431" height="469"/>
+</TextureAtlas>

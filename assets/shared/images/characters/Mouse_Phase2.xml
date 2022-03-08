@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mouse_Phase2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smile mouse down0000" x="5" y="5" width="615" height="611" frameX="0" frameY="-26" frameWidth="692" frameHeight="654"/>
+	<SubTexture name="smile mouse idle0000" x="5" y="805" width="609" height="723" frameX="-16" frameY="-5" frameWidth="617" frameHeight="748"/>
+	<SubTexture name="smile mouse left0000" x="1323" y="805" width="617" height="727" frameX="-11" frameY="0" frameWidth="629" frameHeight="778"/>
+	<SubTexture name="smile mouse rigth0000" x="1323" y="5" width="655" height="790" frameX="-4" frameY="-11" frameWidth="668" frameHeight="796"/>
+	<SubTexture name="smile mouse up0000" x="630" y="5" width="683" height="810" frameX="-6" frameY="-42" frameWidth="709" frameHeight="836"/>
+</TextureAtlas>
